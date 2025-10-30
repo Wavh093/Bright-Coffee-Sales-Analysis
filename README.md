@@ -47,8 +47,8 @@ After planning, I imported the raw Bright Coffee CSV dataset into **Snowflake** 
 - Performed aggregations and window functions to calculate:
 - - Revenue by store
 - - Revenue by product category
-- -Time-based performance (morning, afternoon, evening)
-- -Weekday vs weekend trends
+- Time-based performance (morning, afternoon, evening)
+- Weekday vs weekend trends
 
 **Outcome:**
 An enriched dataset ready for visualization and KPI analysis.
@@ -89,6 +89,8 @@ The final presentation deck was designed in Canva, using visuals exported from E
 
 **Outcome:**
 A professional presentation titled “Bright Coffee — 2023 Mid-Year Performance Analysis”.
+
+---
 
 ## 🧾 5. Lessons Learned
 
