@@ -45,8 +45,8 @@ After planning, I imported the raw Bright Coffee CSV dataset into **Snowflake** 
 - Generated new analytical columns
 
 - Performed aggregations and window functions to calculate:
-- - Revenue by store
-- - Revenue by product category
+    - Revenue by store
+    - Revenue by product category
 - Time-based performance (morning, afternoon, evening)
 - Weekday vs weekend trends
 
