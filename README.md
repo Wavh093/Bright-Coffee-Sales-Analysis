@@ -26,7 +26,7 @@ This end-to-end data analytics project moved from **planning → SQL analysis �
 
 ## 🧠 1. Planning & Conceptualization (Miro)
 I began the project in **Miro**, mapping out the workflow, analysis goals, and slide structure before writing any SQL queries.
-The link can be found [here](https://miro.com/welcomeonboard/YW9aQUdCZVN4L0M4bWM4YU9yVnpmM0JBSlg4OEVrcUlwZkRGd0cvdXFMd2VVcW83M1ZaY0UzZGdZeVh6MjViS2orQWRRNHF0L1BSZktHWEFYN095ZTdWNmVQTHhrdUM3NlRZNU9RV1BVeEFVRTJFNHN0UDBsUTFqZllkbDNpVmlBS2NFMDFkcUNFSnM0d3FEN050ekl3PT0hdjE=?share_link_id=459264698036).
+The link can be found [here](https://miro.com/welcomeonboard/cXZzSll6dVFZc3hIcXdKSHVoQ0hyNjEwNGhBblA2M2dTcmZYWG5hclRvYzZzUzFyaHdOZ2pFZ0NUbVJnOXAxZzdaNDBNK2JMK0JWSVZwSHFEVWVQZmJWNmVQTHhrdUM3NlRZNU9RV1BVeENjTmtrUG1pS01lTjVoalRsQ0ZtN0hzVXVvMm53MW9OWFg5bkJoVXZxdFhRPT0hdjE=?share_link_id=678443232199).
 
 **Planning Highlights:**
 - Defined objectives and key metrics to analyze (store, product, time, and revenue).
