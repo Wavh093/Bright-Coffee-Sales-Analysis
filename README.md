@@ -2,7 +2,7 @@
 
 **Author:** Wavhothe Masakona  
 **Year:** 2025  
-**Tools:** Miro • Snowflake (SQL) • Excel • Canva
+**Tools:** Miro • Snowflake (SQL) • Excel • Canva • Power BI
 
 ---
 
@@ -21,7 +21,7 @@ This end-to-end data analytics project moved from **planning → SQL analysis �
 | 💾 **Snowflake (SQL)** | Data import, cleaning, transformation, and analysis |
 | 📊 **Excel** | Pivot tables, KPI calculations, and visualization |
 | 🎨 **Canva** | Slide deck creation and presentation design |
-
+| 🎨 **Power BI** | Data Visualisation and Reporting |
 ---
 
 ## 🧠 1. Planning & Conceptualization (Miro)
@@ -89,7 +89,9 @@ The final presentation deck was designed in Canva, using visuals exported from E
 
 **Outcome:**
 A professional presentation titled “Bright Coffee — 2023 Mid-Year Performance Analysis”.
-
+- Hell's Kitchen is the best performing outlet.
+- Monday mornings were the best performing time of the day.
+- Coffee is the leading in sales. 
 ---
 
 ## 🧾 5. Lessons Learned
@@ -99,4 +101,4 @@ A professional presentation titled “Bright Coffee — 2023 Mid-Year Performanc
 - Excel allowed flexible pivot-based exploration.
 - Canva translated data into visual storytelling.
 
-🧩 End-to-end takeaway: The project demonstrated how to move seamlessly from raw data to insight, combining business intelligence and design thinking.
+🧩 End-to-end takeaway: The project demonstrated how to move seamlessly from raw data to insight, combining business intelligence and design thinking to derive data-driven decision making.
