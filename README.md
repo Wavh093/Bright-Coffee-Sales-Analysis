@@ -26,6 +26,7 @@ This end-to-end data analytics project moved from **planning → SQL analysis �
 
 ## 🧠 1. Planning & Conceptualization (Miro)
 I began the project in **Miro**, mapping out the workflow, analysis goals, and slide structure before writing any SQL queries.
+The link can be found [here](https://miro.com/welcomeonboard/cXZzSll6dVFZc3hIcXdKSHVoQ0hyNjEwNGhBblA2M2dTcmZYWG5hclRvYzZzUzFyaHdOZ2pFZ0NUbVJnOXAxZzdaNDBNK2JMK0JWSVZwSHFEVWVQZmJWNmVQTHhrdUM3NlRZNU9RV1BVeENjTmtrUG1pS01lTjVoalRsQ0ZtN0hzVXVvMm53MW9OWFg5bkJoVXZxdFhRPT0hdjE=?share_link_id=678443232199).
 
 **Planning Highlights:**
 - Defined objectives and key metrics to analyze (store, product, time, and revenue).
@@ -101,4 +102,4 @@ A professional presentation titled “Bright Coffee — 2023 Mid-Year Performanc
 - Excel allowed flexible pivot-based exploration.
 - Canva translated data into visual storytelling.
 
-🧩 End-to-end takeaway: The project demonstrated how to move seamlessly from raw data to insight, combining business intelligence and design thinking to derive data-driven decision making.
+🧩 End-to-end takeaway: The project demonstrated how to move seamlessly from raw data to insight, combining business intelligence and design thinking.
