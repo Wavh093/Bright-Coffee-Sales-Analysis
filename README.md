@@ -102,4 +102,4 @@ A professional presentation titled “Bright Coffee — 2023 Mid-Year Performanc
 - Excel allowed flexible pivot-based exploration.
 - Canva translated data into visual storytelling.
 
-🧩 End-to-end takeaway: The project demonstrated how to move seamlessly from raw data to insight, combining business intelligence and design thinking.
+🧩 End-to-end takeaway: The project demonstrated how to move seamlessly from raw data to insight, combining business intelligence and design thinking. This is done to derive the data-driven, decison-making process.
